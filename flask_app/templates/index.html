@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BEER</title>
+</head>
+
+<body>
+    <center>
+        <h1>BEER</h1>
+        <P>
+            Enter your choice
+        </P>
+        <form method="POST" , action="{{url_for('sub')}}">
+            <b> Aroma : <input type="text" , name='a' , placeholder="enter 1 - 10"> <br><br>
+                Appearance : <input type="text" , name="b" , placeholder="enter 1 - 5"> <br><br>
+                Flavor : <input type="text" , name="c" , placeholder="enter 1 - 10"> <br><br>
+                Mouthfeel : <input type="text" , name="d" , placeholder="enter 1 - 10"> <br><br>
+                Overall : <input type="text" , name="e" , placeholder="enter 1 - 20"> <br><br><br></b>
+            <input type="submit" , value="predict">
+        </form>
+        <P>
+            <img src="static\beer.jpg" alt="BEER">
+        </P>
+    </center>
+
+</body>
+
+</html>

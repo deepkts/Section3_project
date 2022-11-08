@@ -1,0 +1,901 @@
+,name,Aroma,Appearance,Flavor,Mouthfeel,Overall
+0,Guinness Original 4.2% (Ireland/UK),7,4,7,3,14
+1,Guinness Original 4.2% (Ireland/UK),6,4,6,4,13
+2,Guinness Original 4.2% (Ireland/UK),7,4,7,4,13
+3,Guinness Original 4.2% (Ireland/UK),7,4,7,4,15
+4,Guinness Original 4.2% (Ireland/UK),5,4,5,2,12
+5,Guinness Original 4.2% (Ireland/UK),8,4,8,5,13
+6,Guinness Original 4.2% (Ireland/UK),7,5,8,4,15
+7,Guinness Original 4.2% (Ireland/UK),7,5,7,4,15
+8,Guinness Original 4.2% (Ireland/UK),9,4,10,5,19
+9,Guinness Original 4.2% (Ireland/UK),6,3,6,3,12
+10,Guinness Original 4.2% (Ireland/UK),7,3,5,3,12
+11,Guinness Original 4.2% (Ireland/UK),6,3,6,3,15
+12,Guinness Original 4.2% (Ireland/UK),6,4,6,3,14
+13,Guinness Original 4.2% (Ireland/UK),4,2,4,2,7
+14,Guinness Original 4.2% (Ireland/UK),6,4,8,4,15
+15,Guinness Original 4.2% (Ireland/UK),5,4,4,2,9
+16,Guinness Original 4.2% (Ireland/UK),6,4,6,4,13
+17,Guinness Original 4.2% (Ireland/UK),7,5,7,2,13
+18,Guinness Original 4.2% (Ireland/UK),7,3,6,2,11
+19,Guinness Original 4.2% (Ireland/UK),7,3,6,3,13
+20,Guinness Original 4.2% (Ireland/UK),7,4,7,4,14
+21,Guinness Original 4.2% (Ireland/UK),6,4,7,4,15
+22,Guinness Original 4.2% (Ireland/UK),7,4,8,3,15
+23,Guinness Original 4.2% (Ireland/UK),7,4,9,5,16
+24,Guinness Original 4.2% (Ireland/UK),7,5,8,3,15
+25,Guinness Original 4.2% (Ireland/UK),10,5,10,5,20
+26,Guinness Original 4.2% (Ireland/UK),6,4,5,2,10
+27,Guinness Original 4.2% (Ireland/UK),7,3,7,3,12
+28,Guinness Original 4.2% (Ireland/UK),6,3,5,2,11
+29,Guinness Original 4.2% (Ireland/UK),6,4,7,4,14
+30,Guinness Original 4.2% (Ireland/UK),5,4,6,2,11
+31,Guinness Original 4.2% (Ireland/UK),6,3,6,3,16
+32,Guinness Original 4.2% (Ireland/UK),8,3,7,3,12
+33,Guinness Original 4.2% (Ireland/UK),7,5,8,5,18
+34,Guinness Original 4.2% (Ireland/UK),7,4,6,3,13
+35,Guinness Original 4.2% (Ireland/UK),7,3,8,3,14
+36,Guinness Original 4.2% (Ireland/UK),6,4,7,4,13
+37,Guinness Original 4.2% (Ireland/UK),7,4,7,4,15
+38,Guinness Original 4.2% (Ireland/UK),5,3,6,3,10
+39,Guinness Original 4.2% (Ireland/UK),7,4,6,3,10
+40,Guinness Original 4.2% (Ireland/UK),5,3,5,2,10
+41,Guinness Original 4.2% (Ireland/UK),8,4,8,3,12
+42,Guinness Original 4.2% (Ireland/UK),7,4,6,3,12
+43,Guinness Original 4.2% (Ireland/UK),7,4,7,4,17
+44,Guinness Original 4.2% (Ireland/UK),10,4,8,4,14
+45,Guinness Original 4.2% (Ireland/UK),5,3,5,3,13
+46,Guinness Original 4.2% (Ireland/UK),5,3,6,3,16
+47,Guinness Original 4.2% (Ireland/UK),5,3,6,3,12
+48,Guinness Original 4.2% (Ireland/UK),7,3,7,3,14
+49,Guinness Original 4.2% (Ireland/UK),7,4,6,3,13
+50,Guinness Original 4.2% (Ireland/UK),8,4,8,4,15
+51,Guinness Original 4.2% (Ireland/UK),7,3,7,3,15
+52,Guinness Original 4.2% (Ireland/UK),7,4,6,3,13
+53,Guinness Original 4.2% (Ireland/UK),7,4,7,4,10
+54,Guinness Original 4.2% (Ireland/UK),6,3,6,3,13
+55,Guinness Original 4.2% (Ireland/UK),7,3,7,3,15
+56,Guinness Original 4.2% (Ireland/UK),8,3,7,3,15
+57,Guinness Original 4.2% (Ireland/UK),5,3,5,2,9
+58,Guinness Original 4.2% (Ireland/UK),7,4,7,4,17
+59,Guinness Original 4.2% (Ireland/UK),7,4,6,3,11
+60,Guinness Original 4.2% (Ireland/UK),6,4,5,1,10
+61,Guinness Original 4.2% (Ireland/UK),5,4,7,3,15
+62,Guinness Original 4.2% (Ireland/UK),6,4,5,3,10
+63,Guinness Original 4.2% (Ireland/UK),4,3,5,2,10
+64,Guinness Original 4.2% (Ireland/UK),6,5,9,5,15
+65,Guinness Original 4.2% (Ireland/UK),3,3,6,3,13
+66,Guinness Original 4.2% (Ireland/UK),7,5,7,4,14
+67,Guinness Original 4.2% (Ireland/UK),6,3,6,3,14
+68,Guinness Original 4.2% (Ireland/UK),4,3,6,3,12
+69,Guinness Original 4.2% (Ireland/UK),6,3,6,3,13
+70,Guinness Original 4.2% (Ireland/UK),6,3,7,4,16
+71,Guinness Original 4.2% (Ireland/UK),6,3,7,3,14
+72,Guinness Original 4.2% (Ireland/UK),5,4,5,3,10
+73,Guinness Original 4.2% (Ireland/UK),6,2,6,2,10
+74,Guinness Original 4.2% (Ireland/UK),5,3,6,3,14
+75,Guinness Original 4.2% (Ireland/UK),7,3,8,3,17
+76,Guinness Original 4.2% (Ireland/UK),7,4,7,4,11
+77,Guinness Original 4.2% (Ireland/UK),7,4,7,4,13
+78,Guinness Original 4.2% (Ireland/UK),6,4,6,3,11
+79,Guinness Original 4.2% (Ireland/UK),6,4,7,3,13
+80,Guinness Original 4.2% (Ireland/UK),6,5,5,3,12
+81,Guinness Original 4.2% (Ireland/UK),4,4,4,4,9
+82,Guinness Original 4.2% (Ireland/UK),5,4,5,2,13
+83,Guinness Original 4.2% (Ireland/UK),6,3,6,3,13
+84,Guinness Original 4.2% (Ireland/UK),3,4,6,3,13
+85,Guinness Original 4.2% (Ireland/UK),5,3,6,4,14
+86,Guinness Original 4.2% (Ireland/UK),8,5,7,5,13
+87,Guinness Original 4.2% (Ireland/UK),7,4,7,3,11
+88,Guinness Original 4.2% (Ireland/UK),7,3,7,3,15
+89,Guinness Original 4.2% (Ireland/UK),7,4,7,4,13
+90,Guinness Original 4.2% (Ireland/UK),6,3,7,3,16
+91,Guinness Original 4.2% (Ireland/UK),3,4,3,1,3
+92,Guinness Original 4.2% (Ireland/UK),6,3,6,3,11
+93,Guinness Original 4.2% (Ireland/UK),10,5,10,4,19
+94,Guinness Original 4.2% (Ireland/UK),6,5,7,3,14
+95,Guinness Original 4.2% (Ireland/UK),7,4,8,4,15
+96,Guinness Original 4.2% (Ireland/UK),10,5,10,4,18
+97,Guinness Original 4.2% (Ireland/UK),5,4,6,4,13
+98,Guinness Original 4.2% (Ireland/UK),6,5,7,4,14
+99,Guinness Original 4.2% (Ireland/UK),7,4,7,3,16
+100,Guinness Original 4.2% (Ireland/UK),7,4,6,3,13
+101,Guinness Original 4.2% (Ireland/UK),5,3,5,3,9
+102,Guinness Original 4.2% (Ireland/UK),5,3,7,2,11
+103,Guinness Original 4.2% (Ireland/UK),6,4,7,4,14
+104,Guinness Original 4.2% (Ireland/UK),7,3,7,3,14
+105,Guinness Original 4.2% (Ireland/UK),6,3,6,3,12
+106,Guinness Original 4.2% (Ireland/UK),8,4,8,4,16
+107,Guinness Original 4.2% (Ireland/UK),8,4,8,4,16
+108,Guinness Original 4.2% (Ireland/UK),7,3,7,3,13
+109,Guinness Original 4.2% (Ireland/UK),5,3,7,2,13
+110,Guinness Original 4.2% (Ireland/UK),7,3,7,2,14
+111,Guinness Original 4.2% (Ireland/UK),7,4,7,4,15
+112,Guinness Original 4.2% (Ireland/UK),7,4,4,3,7
+113,Guinness Original 4.2% (Ireland/UK),7,3,7,3,13
+114,Guinness Original 4.2% (Ireland/UK),7,5,8,4,17
+115,Guinness Original 4.2% (Ireland/UK),7,4,6,3,13
+116,Guinness Original 4.2% (Ireland/UK),4,4,8,4,13
+117,Guinness Original 4.2% (Ireland/UK),6,3,5,3,11
+118,Guinness Original 4.2% (Ireland/UK),7,4,8,3,15
+119,Guinness Original 4.2% (Ireland/UK),6,4,8,3,15
+120,Guinness Original 4.2% (Ireland/UK),5,3,5,2,5
+121,Guinness Original 4.2% (Ireland/UK),7,5,7,3,15
+122,Guinness Original 4.2% (Ireland/UK),5,3,7,4,12
+123,Guinness Original 4.2% (Ireland/UK),5,4,5,2,10
+124,Guinness Original 4.2% (Ireland/UK),5,4,6,3,15
+125,Guinness Original 4.2% (Ireland/UK),6,5,6,3,12
+126,Guinness Original 4.2% (Ireland/UK),6,5,6,4,11
+127,Guinness Original 4.2% (Ireland/UK),5,3,4,3,9
+128,Guinness Original 4.2% (Ireland/UK),5,3,5,3,12
+129,Guinness Original 4.2% (Ireland/UK),7,3,7,2,11
+130,Guinness Original 4.2% (Ireland/UK),7,5,7,4,17
+131,Guinness Original 4.2% (Ireland/UK),6,4,6,3,13
+132,Guinness Original 4.2% (Ireland/UK),3,4,5,2,12
+133,Guinness Original 4.2% (Ireland/UK),6,3,6,3,12
+134,Guinness Original 4.2% (Ireland/UK),5,4,6,4,11
+135,Guinness Original 4.2% (Ireland/UK),6,2,7,3,12
+136,Guinness Original 4.2% (Ireland/UK),5,4,5,3,9
+137,Guinness Original 4.2% (Ireland/UK),8,5,8,5,16
+138,Guinness Original 4.2% (Ireland/UK),8,4,8,4,17
+139,Guinness Original 4.2% (Ireland/UK),7,3,5,3,13
+140,Guinness Original 4.2% (Ireland/UK),6,5,8,3,15
+141,Guinness Original 4.2% (Ireland/UK),8,3,8,3,15
+142,Guinness Original 4.2% (Ireland/UK),3,5,5,3,11
+143,Guinness Original 4.2% (Ireland/UK),4,3,6,3,13
+144,Guinness Original 4.2% (Ireland/UK),6,4,6,3,12
+145,Guinness Original 4.2% (Ireland/UK),7,4,6,2,12
+146,Guinness Original 4.2% (Ireland/UK),6,4,6,3,13
+147,Guinness Original 4.2% (Ireland/UK),6,3,6,3,11
+148,Guinness Original 4.2% (Ireland/UK),6,3,6,3,14
+149,Guinness Original 4.2% (Ireland/UK),6,4,6,2,12
+150,Guinness Original 4.2% (Ireland/UK),7,4,7,2,12
+151,Guinness Original 4.2% (Ireland/UK),7,2,6,3,10
+152,Guinness Original 4.2% (Ireland/UK),6,3,5,3,9
+153,Guinness Original 4.2% (Ireland/UK),6,3,5,2,10
+154,Guinness Original 4.2% (Ireland/UK),5,5,4,3,10
+155,Guinness Original 4.2% (Ireland/UK),5,3,6,3,11
+156,Guinness Original 4.2% (Ireland/UK),6,4,6,3,12
+157,Guinness Original 4.2% (Ireland/UK),7,4,7,4,14
+158,Guinness Original 4.2% (Ireland/UK),7,4,4,3,12
+159,Guinness Original 4.2% (Ireland/UK),7,5,7,5,13
+160,Guinness Original 4.2% (Ireland/UK),6,4,6,4,12
+161,Guinness Original 4.2% (Ireland/UK),7,3,6,3,11
+162,Guinness Original 4.2% (Ireland/UK),6,4,7,3,14
+163,Guinness Original 4.2% (Ireland/UK),7,3,8,3,12
+164,Guinness Original 4.2% (Ireland/UK),7,4,7,4,15
+165,Guinness Original 4.2% (Ireland/UK),7,4,7,4,13
+166,Guinness Original 4.2% (Ireland/UK),6,4,6,4,15
+167,Guinness Original 4.2% (Ireland/UK),5,3,5,3,12
+168,Guinness Original 4.2% (Ireland/UK),7,4,7,4,15
+169,Guinness Original 4.2% (Ireland/UK),6,4,6,3,12
+170,Guinness Original 4.2% (Ireland/UK),5,3,5,3,10
+171,Guinness Original 4.2% (Ireland/UK),6,4,5,2,8
+172,Guinness Original 4.2% (Ireland/UK),6,4,6,4,12
+173,Guinness Original 4.2% (Ireland/UK),7,5,6,4,14
+174,Guinness Original 4.2% (Ireland/UK),6,5,6,2,10
+175,Guinness Original 4.2% (Ireland/UK),6,4,7,3,12
+176,Guinness Original 4.2% (Ireland/UK),6,4,6,4,12
+177,Guinness Original 4.2% (Ireland/UK),6,4,6,3,12
+178,Guinness Original 4.2% (Ireland/UK),5,4,7,4,13
+179,Guinness Original 4.2% (Ireland/UK),3,3,3,2,12
+180,Guinness Original 4.2% (Ireland/UK),6,4,6,4,15
+181,Guinness Original 4.2% (Ireland/UK),6,4,7,3,15
+182,Guinness Original 4.2% (Ireland/UK),7,4,8,4,17
+183,Guinness Original 4.2% (Ireland/UK),5,4,9,3,20
+184,Guinness Original 4.2% (Ireland/UK),3,3,4,5,7
+185,Guinness Original 4.2% (Ireland/UK),6,3,7,3,12
+186,Guinness Original 4.2% (Ireland/UK),6,4,6,3,11
+187,Guinness Original 4.2% (Ireland/UK),7,4,7,3,13
+188,Guinness Original 4.2% (Ireland/UK),7,4,7,4,14
+189,Guinness Original 4.2% (Ireland/UK),6,3,6,3,12
+190,Guinness Original 4.2% (Ireland/UK),7,5,7,4,13
+191,Guinness Original 4.2% (Ireland/UK),6,3,6,2,10
+192,Guinness Original 4.2% (Ireland/UK),6,4,7,3,14
+193,Guinness Original 4.2% (Ireland/UK),6,4,6,4,12
+194,Guinness Original 4.2% (Ireland/UK),5,4,5,4,16
+195,Guinness Original 4.2% (Ireland/UK),6,4,7,4,15
+196,Guinness Original 4.2% (Ireland/UK),7,4,6,3,13
+197,Guinness Original 4.2% (Ireland/UK),5,3,6,3,13
+198,Guinness Original 4.2% (Ireland/UK),6,4,7,4,15
+199,Guinness Original 4.2% (Ireland/UK),6,4,6,4,10
+200,Guinness Original 4.2% (Ireland/UK),7,4,6,2,10
+201,Guinness Original 4.2% (Ireland/UK),7,5,7,3,12
+202,Guinness Original 4.2% (Ireland/UK),6,5,6,2,11
+203,Guinness Original 4.2% (Ireland/UK),6,4,6,4,15
+204,Guinness Original 4.2% (Ireland/UK),7,4,7,4,14
+205,Guinness Original 4.2% (Ireland/UK),6,4,7,3,11
+206,Guinness Original 4.2% (Ireland/UK),7,3,7,3,13
+207,Guinness Original 4.2% (Ireland/UK),7,4,7,3,13
+208,Guinness Original 4.2% (Ireland/UK),6,4,6,4,14
+209,Guinness Original 4.2% (Ireland/UK),6,4,6,3,12
+210,Guinness Original 4.2% (Ireland/UK),7,4,5,3,13
+211,Guinness Original 4.2% (Ireland/UK),5,5,4,2,14
+212,Guinness Original 4.2% (Ireland/UK),6,4,7,3,11
+213,Guinness Original 4.2% (Ireland/UK),7,4,7,3,14
+214,Guinness Original 4.2% (Ireland/UK),4,3,3,1,6
+215,Guinness Original 4.2% (Ireland/UK),8,5,8,5,15
+216,Guinness Original 4.2% (Ireland/UK),6,4,6,4,15
+217,Guinness Original 4.2% (Ireland/UK),4,4,6,4,15
+218,Guinness Original 4.2% (Ireland/UK),3,4,3,2,6
+219,Guinness Original 4.2% (Ireland/UK),6,4,4,3,12
+220,Guinness Original 4.2% (Ireland/UK),6,4,6,3,14
+221,Guinness Original 4.2% (Ireland/UK),6,3,6,3,14
+222,Guinness Original 4.2% (Ireland/UK),7,4,8,3,15
+223,Guinness Original 4.2% (Ireland/UK),4,3,5,2,10
+224,Guinness Original 4.2% (Ireland/UK),9,5,10,4,19
+225,Guinness Original 4.2% (Ireland/UK),5,4,6,3,12
+226,Guinness Original 4.2% (Ireland/UK),6,4,7,3,14
+227,Guinness Original 4.2% (Ireland/UK),7,3,7,3,13
+228,Guinness Original 4.2% (Ireland/UK),6,4,6,3,13
+229,Guinness Original 4.2% (Ireland/UK),7,4,7,4,14
+230,Guinness Original 4.2% (Ireland/UK),4,3,6,3,14
+231,Guinness Original 4.2% (Ireland/UK),4,4,5,2,10
+232,Guinness Original 4.2% (Ireland/UK),5,4,8,3,15
+233,Guinness Original 4.2% (Ireland/UK),5,3,6,4,12
+234,Guinness Original 4.2% (Ireland/UK),4,3,4,2,10
+235,Guinness Original 4.2% (Ireland/UK),3,3,4,3,7
+236,Guinness Original 4.2% (Ireland/UK),5,5,7,4,12
+237,Guinness Original 4.2% (Ireland/UK),6,3,6,3,15
+238,Guinness Original 4.2% (Ireland/UK),6,3,6,4,10
+239,Guinness Original 4.2% (Ireland/UK),7,4,6,3,12
+240,Guinness Original 4.2% (Ireland/UK),5,4,7,4,15
+241,Guinness Original 4.2% (Ireland/UK),5,2,6,3,12
+242,Guinness Original 4.2% (Ireland/UK),5,3,5,3,11
+243,Guinness Original 4.2% (Ireland/UK),6,3,5,3,13
+244,Guinness Original 4.2% (Ireland/UK),5,4,6,3,13
+245,Guinness Original 4.2% (Ireland/UK),4,5,7,4,17
+246,Guinness Original 4.2% (Ireland/UK),5,3,6,3,15
+247,Guinness Original 4.2% (Ireland/UK),5,4,5,3,10
+248,Guinness Original 4.2% (Ireland/UK),5,3,5,3,11
+249,Guinness Original 4.2% (Ireland/UK),5,3,5,3,10
+250,Guinness Original 4.2% (Ireland/UK),7,3,6,3,14
+251,Guinness Original 4.2% (Ireland/UK),7,3,5,3,12
+252,Guinness Original 4.2% (Ireland/UK),6,4,7,4,13
+253,Guinness Original 4.2% (Ireland/UK),7,4,6,3,10
+254,Guinness Original 4.2% (Ireland/UK),7,3,3,1,8
+255,Guinness Original 4.2% (Ireland/UK),8,4,7,3,13
+256,Guinness Original 4.2% (Ireland/UK),7,3,6,3,13
+257,Guinness Original 4.2% (Ireland/UK),5,4,5,3,9
+258,Guinness Original 4.2% (Ireland/UK),5,4,5,3,14
+259,Guinness Original 4.2% (Ireland/UK),6,5,7,4,12
+260,Guinness Original 4.2% (Ireland/UK),3,3,7,3,15
+261,Guinness Original 4.2% (Ireland/UK),8,4,9,4,17
+262,Guinness Original 4.2% (Ireland/UK),4,4,8,3,14
+263,Guinness Original 4.2% (Ireland/UK),6,3,7,3,15
+264,Guinness Original 4.2% (Ireland/UK),5,4,6,3,12
+265,Guinness Original 4.2% (Ireland/UK),6,5,6,5,13
+266,Guinness Original 4.2% (Ireland/UK),6,4,6,3,14
+267,Guinness Original 4.2% (Ireland/UK),3,4,5,2,10
+268,Guinness Original 4.2% (Ireland/UK),5,4,6,4,12
+269,Guinness Original 4.2% (Ireland/UK),5,4,6,3,8
+270,Guinness Original 4.2% (Ireland/UK),7,4,8,3,11
+271,Guinness Original 4.2% (Ireland/UK),6,3,6,3,11
+272,Guinness Original 4.2% (Ireland/UK),7,3,8,3,14
+273,Guinness Original 4.2% (Ireland/UK),4,3,5,3,11
+274,Guinness Original 4.2% (Ireland/UK),8,5,8,4,15
+275,Guinness Original 4.2% (Ireland/UK),5,4,5,2,11
+276,Guinness Original 4.2% (Ireland/UK),6,4,5,3,12
+277,Guinness Original 4.2% (Ireland/UK),6,4,6,4,15
+278,Guinness Original 4.2% (Ireland/UK),8,5,10,5,20
+279,Guinness Original 4.2% (Ireland/UK),5,2,6,2,12
+280,Guinness Original 4.2% (Ireland/UK),7,3,7,3,14
+281,Guinness Original 4.2% (Ireland/UK),6,3,5,3,11
+282,Guinness Original 4.2% (Ireland/UK),7,4,7,3,13
+283,Guinness Original 4.2% (Ireland/UK),7,4,8,4,13
+284,Guinness Original 4.2% (Ireland/UK),6,4,6,3,13
+285,Guinness Original 4.2% (Ireland/UK),6,4,6,4,16
+286,Guinness Original 4.2% (Ireland/UK),3,4,5,3,9
+287,Guinness Original 4.2% (Ireland/UK),6,4,7,3,13
+288,Guinness Original 4.2% (Ireland/UK),4,2,5,3,10
+289,Guinness Original 4.2% (Ireland/UK),7,5,6,3,13
+290,Guinness Original 4.2% (Ireland/UK),7,4,9,3,16
+291,Guinness Original 4.2% (Ireland/UK),7,2,7,3,13
+292,Guinness Original 4.2% (Ireland/UK),5,4,6,3,14
+293,Guinness Original 4.2% (Ireland/UK),6,2,5,3,10
+294,Guinness Original 4.2% (Ireland/UK),7,3,6,3,13
+295,Guinness Original 4.2% (Ireland/UK),7,3,7,3,13
+296,Guinness Original 4.2% (Ireland/UK),6,4,7,4,16
+297,Guinness Original 4.2% (Ireland/UK),7,4,7,3,14
+298,Guinness Original 4.2% (Ireland/UK),6,5,7,3,14
+299,Guinness Original 4.2% (Ireland/UK),5,4,5,4,10
+300,Guinness Original 4.2% (Ireland/UK),6,3,8,3,10
+301,Guinness Original 4.2% (Ireland/UK),6,3,7,3,12
+302,Guinness Original 4.2% (Ireland/UK),7,3,7,3,13
+303,Guinness Original 4.2% (Ireland/UK),5,3,6,2,14
+304,Guinness Original 4.2% (Ireland/UK),6,4,6,4,12
+305,Guinness Original 4.2% (Ireland/UK),8,3,5,3,14
+306,Guinness Original 4.2% (Ireland/UK),5,4,7,3,16
+307,Guinness Original 4.2% (Ireland/UK),4,5,6,4,13
+308,Guinness Original 4.2% (Ireland/UK),8,3,8,4,10
+309,Guinness Original 4.2% (Ireland/UK),6,4,7,3,13
+310,Guinness Original 4.2% (Ireland/UK),7,4,5,4,13
+311,Guinness Original 4.2% (Ireland/UK),6,4,6,3,13
+312,Guinness Original 4.2% (Ireland/UK),10,5,10,5,20
+313,Guinness Original 4.2% (Ireland/UK),6,4,7,3,13
+314,Guinness Original 4.2% (Ireland/UK),5,3,6,3,9
+315,Guinness Original 4.2% (Ireland/UK),7,4,8,3,15
+316,Guinness Original 4.2% (Ireland/UK),4,2,5,3,8
+317,Guinness Original 4.2% (Ireland/UK),6,4,5,3,10
+318,Guinness Original 4.2% (Ireland/UK),7,3,7,3,13
+319,Guinness Original 4.2% (Ireland/UK),7,4,7,3,13
+320,Guinness Original 4.2% (Ireland/UK),7,4,7,4,16
+321,Guinness Original 4.2% (Ireland/UK),6,4,7,3,13
+322,Guinness Original 4.2% (Ireland/UK),8,4,7,4,16
+323,Guinness Original 4.2% (Ireland/UK),5,5,7,3,15
+324,Guinness Original 4.2% (Ireland/UK),6,3,6,3,13
+325,Guinness Original 4.2% (Ireland/UK),6,3,6,3,12
+326,Guinness Original 4.2% (Ireland/UK),8,4,7,4,15
+327,Guinness Original 4.2% (Ireland/UK),5,4,5,3,11
+328,Guinness Original 4.2% (Ireland/UK),7,4,7,3,13
+329,Guinness Original 4.2% (Ireland/UK),5,4,6,3,12
+330,Guinness Original 4.2% (Ireland/UK),5,5,6,3,14
+331,Guinness Original 4.2% (Ireland/UK),6,4,7,4,14
+332,Guinness Original 4.2% (Ireland/UK),6,3,6,3,13
+333,Guinness Original 4.2% (Ireland/UK),8,5,8,4,17
+334,Guinness Original 4.2% (Ireland/UK),10,5,10,5,20
+335,Guinness Original 4.2% (Ireland/UK),5,5,6,3,10
+336,Guinness Original 4.2% (Ireland/UK),7,3,7,3,14
+337,Guinness Original 4.2% (Ireland/UK),7,4,4,2,8
+338,Guinness Original 4.2% (Ireland/UK),6,4,7,3,12
+339,Guinness Original 4.2% (Ireland/UK),6,5,8,3,14
+340,Guinness Original 4.2% (Ireland/UK),8,5,7,3,12
+341,Guinness Original 4.2% (Ireland/UK),7,3,7,3,14
+342,Guinness Original 4.2% (Ireland/UK),7,4,6,4,13
+343,Guinness Original 4.2% (Ireland/UK),5,4,5,3,12
+344,Guinness Original 4.2% (Ireland/UK),7,5,7,3,14
+345,Guinness Original 4.2% (Ireland/UK),6,5,6,4,11
+346,Guinness Original 4.2% (Ireland/UK),4,3,6,3,12
+347,Guinness Original 4.2% (Ireland/UK),9,4,9,4,18
+348,Guinness Original 4.2% (Ireland/UK),9,4,8,3,15
+349,Guinness Original 4.2% (Ireland/UK),6,5,6,3,13
+350,Guinness Original 4.2% (Ireland/UK),7,3,7,3,12
+351,Guinness Original 4.2% (Ireland/UK),6,3,5,3,13
+352,Guinness Original 4.2% (Ireland/UK),5,4,6,3,14
+353,Guinness Original 4.2% (Ireland/UK),6,3,5,3,12
+354,Guinness Original 4.2% (Ireland/UK),5,5,6,3,9
+355,Guinness Original 4.2% (Ireland/UK),7,4,8,4,16
+356,Guinness Original 4.2% (Ireland/UK),6,4,6,2,14
+357,Guinness Original 4.2% (Ireland/UK),6,4,6,3,14
+358,Guinness Original 4.2% (Ireland/UK),6,4,6,2,12
+359,Guinness Original 4.2% (Ireland/UK),7,3,7,3,14
+360,Guinness Original 4.2% (Ireland/UK),7,4,3,3,14
+361,Guinness Original 4.2% (Ireland/UK),8,5,9,4,18
+362,Guinness Original 4.2% (Ireland/UK),7,3,7,3,13
+363,Guinness Original 4.2% (Ireland/UK),6,4,5,3,16
+364,Guinness Original 4.2% (Ireland/UK),7,5,6,4,12
+365,Guinness Original 4.2% (Ireland/UK),7,4,7,5,15
+366,Guinness Original 4.2% (Ireland/UK),2,1,2,1,4
+367,Guinness Original 4.2% (Ireland/UK),7,3,7,4,14
+368,Guinness Original 4.2% (Ireland/UK),5,3,6,3,11
+369,Guinness Original 4.2% (Ireland/UK),6,3,6,3,11
+370,Guinness Original 4.2% (Ireland/UK),6,4,8,4,17
+371,Guinness Original 4.2% (Ireland/UK),6,4,6,3,12
+372,Guinness Original 4.2% (Ireland/UK),6,3,6,3,9
+373,Guinness Original 4.2% (Ireland/UK),6,5,5,4,8
+374,Guinness Original 4.2% (Ireland/UK),6,4,6,4,13
+375,Guinness Original 4.2% (Ireland/UK),4,3,4,2,8
+376,Guinness Original 4.2% (Ireland/UK),7,4,7,4,15
+377,Guinness Original 4.2% (Ireland/UK),3,5,6,4,10
+378,Guinness Original 4.2% (Ireland/UK),6,3,6,3,13
+379,Guinness Original 4.2% (Ireland/UK),8,4,8,3,15
+380,Guinness Original 4.2% (Ireland/UK),5,5,8,5,17
+381,Guinness Original 4.2% (Ireland/UK),3,4,7,4,16
+382,Guinness Original 4.2% (Ireland/UK),5,4,5,3,14
+383,Guinness Original 4.2% (Ireland/UK),7,4,7,3,12
+384,Guinness Original 4.2% (Ireland/UK),7,4,7,3,15
+385,Guinness Original 4.2% (Ireland/UK),7,3,6,3,13
+386,Guinness Original 4.2% (Ireland/UK),5,4,6,3,10
+387,Guinness Original 4.2% (Ireland/UK),6,4,7,3,12
+388,Guinness Original 4.2% (Ireland/UK),8,5,8,5,18
+389,Guinness Original 4.2% (Ireland/UK),6,4,5,3,11
+390,Guinness Original 4.2% (Ireland/UK),7,4,7,3,13
+391,Guinness Original 4.2% (Ireland/UK),4,4,3,2,9
+392,Guinness Original 4.2% (Ireland/UK),6,3,7,3,9
+393,Guinness Original 4.2% (Ireland/UK),7,3,6,3,13
+394,Guinness Original 4.2% (Ireland/UK),7,4,8,4,16
+395,Guinness Original 4.2% (Ireland/UK),8,5,8,4,17
+396,Guinness Original 4.2% (Ireland/UK),5,4,5,2,9
+397,Guinness Original 4.2% (Ireland/UK),6,3,7,3,13
+398,Guinness Original 4.2% (Ireland/UK),8,5,8,4,16
+399,Guinness Original 4.2% (Ireland/UK),6,4,6,3,12
+400,Guinness Original 4.2% (Ireland/UK),6,3,7,3,13
+401,Guinness Original 4.2% (Ireland/UK),6,4,6,3,12
+402,Guinness Original 4.2% (Ireland/UK),8,3,8,4,16
+403,Guinness Original 4.2% (Ireland/UK),4,5,5,4,10
+404,Guinness Original 4.2% (Ireland/UK),6,4,7,3,12
+405,Guinness Original 4.2% (Ireland/UK),6,4,7,3,13
+406,Guinness Original 4.2% (Ireland/UK),4,3,5,2,9
+407,Guinness Original 4.2% (Ireland/UK),5,3,5,3,11
+408,Guinness Original 4.2% (Ireland/UK),5,3,5,2,11
+409,Guinness Original 4.2% (Ireland/UK),5,4,5,3,11
+410,Guinness Original 4.2% (Ireland/UK),5,4,6,3,10
+411,Guinness Original 4.2% (Ireland/UK),5,5,6,3,11
+412,Guinness Original 4.2% (Ireland/UK),7,4,6,3,13
+413,Guinness Original 4.2% (Ireland/UK),7,4,6,3,14
+414,Guinness Original 4.2% (Ireland/UK),7,3,7,3,13
+415,Guinness Original 4.2% (Ireland/UK),7,4,6,2,13
+416,Guinness Original 4.2% (Ireland/UK),6,4,6,3,13
+417,Guinness Original 4.2% (Ireland/UK),7,5,6,4,12
+418,Guinness Original 4.2% (Ireland/UK),7,4,8,4,13
+419,Guinness Original 4.2% (Ireland/UK),4,4,5,2,10
+420,Guinness Original 4.2% (Ireland/UK),4,2,7,3,14
+421,Guinness Original 4.2% (Ireland/UK),4,2,4,2,8
+422,Guinness Original 4.2% (Ireland/UK),4,3,3,2,8
+423,Guinness Original 4.2% (Ireland/UK),5,4,6,3,13
+424,Guinness Original 4.2% (Ireland/UK),6,5,6,3,13
+425,Guinness Original 4.2% (Ireland/UK),7,2,7,4,14
+426,Guinness Original 4.2% (Ireland/UK),8,4,7,3,15
+427,Guinness Original 4.2% (Ireland/UK),6,3,6,3,13
+428,Guinness Original 4.2% (Ireland/UK),5,3,6,3,15
+429,Guinness Original 4.2% (Ireland/UK),10,5,10,4,20
+430,Guinness Original 4.2% (Ireland/UK),7,5,7,3,15
+431,Guinness Original 4.2% (Ireland/UK),6,2,5,2,9
+432,Guinness Original 4.2% (Ireland/UK),8,5,5,4,12
+433,Guinness Original 4.2% (Ireland/UK),7,4,7,4,14
+434,Guinness Original 4.2% (Ireland/UK),6,4,7,3,13
+435,Guinness Original 4.2% (Ireland/UK),6,5,6,3,12
+436,Guinness Original 4.2% (Ireland/UK),7,4,7,2,13
+437,Guinness Original 4.2% (Ireland/UK),7,4,6,3,12
+438,Guinness Original 4.2% (Ireland/UK),7,3,6,3,13
+439,Guinness Original 4.2% (Ireland/UK),7,4,7,3,14
+440,Guinness Original 4.2% (Ireland/UK),8,5,8,5,14
+441,Guinness Original 4.2% (Ireland/UK),6,3,6,3,10
+442,Guinness Original 4.2% (Ireland/UK),6,4,7,4,13
+443,Guinness Original 4.2% (Ireland/UK),7,4,4,3,12
+444,Guinness Original 4.2% (Ireland/UK),6,4,5,2,10
+445,Guinness Original 4.2% (Ireland/UK),8,3,6,3,14
+446,Guinness Original 4.2% (Ireland/UK),4,3,8,3,17
+447,Guinness Original 4.2% (Ireland/UK),6,4,7,3,14
+448,Guinness Original 4.2% (Ireland/UK),6,4,6,4,13
+449,Guinness Original 4.2% (Ireland/UK),8,5,8,4,18
+450,Guinness Original 4.2% (Ireland/UK),5,4,6,3,12
+451,Guinness Original 4.2% (Ireland/UK),7,3,7,3,13
+452,Guinness Original 4.2% (Ireland/UK),4,4,5,3,11
+453,Guinness Original 4.2% (Ireland/UK),7,5,2,2,11
+454,Guinness Original 4.2% (Ireland/UK),6,3,6,3,12
+455,Guinness Original 4.2% (Ireland/UK),7,3,8,4,13
+456,Guinness Original 4.2% (Ireland/UK),7,3,7,3,15
+457,Guinness Original 4.2% (Ireland/UK),9,5,9,5,18
+458,Guinness Original 4.2% (Ireland/UK),7,4,6,3,12
+459,Guinness Original 4.2% (Ireland/UK),5,4,5,4,12
+460,Guinness Original 4.2% (Ireland/UK),7,4,7,3,14
+461,Guinness Original 4.2% (Ireland/UK),5,3,6,3,10
+462,Guinness Original 4.2% (Ireland/UK),5,3,6,3,14
+463,Guinness Original 4.2% (Ireland/UK),7,5,8,4,15
+464,Guinness Original 4.2% (Ireland/UK),5,3,5,2,10
+465,Guinness Original 4.2% (Ireland/UK),7,4,7,3,13
+466,Guinness Original 4.2% (Ireland/UK),7,3,7,4,14
+467,Guinness Original 4.2% (Ireland/UK),7,5,7,4,15
+468,Guinness Original 4.2% (Ireland/UK),7,4,7,3,16
+469,Guinness Original 4.2% (Ireland/UK),6,5,7,3,15
+470,Guinness Original 4.2% (Ireland/UK),4,4,4,3,10
+471,Guinness Original 4.2% (Ireland/UK),4,3,7,4,14
+472,Guinness Original 4.2% (Ireland/UK),5,5,6,5,14
+473,Guinness Original 4.2% (Ireland/UK),6,3,7,3,11
+474,Guinness Original 4.2% (Ireland/UK),1,1,1,1,20
+475,Guinness Original 4.2% (Ireland/UK),6,4,7,4,15
+476,Guinness Original 4.2% (Ireland/UK),6,4,6,4,10
+477,Guinness Original 4.2% (Ireland/UK),7,4,7,4,15
+478,Guinness Original 4.2% (Ireland/UK),8,4,6,4,16
+479,Guinness Original 4.2% (Ireland/UK),6,4,7,3,12
+480,Guinness Original 4.2% (Ireland/UK),3,4,5,3,10
+481,Guinness Original 4.2% (Ireland/UK),3,4,3,4,4
+482,Guinness Original 4.2% (Ireland/UK),5,3,5,3,10
+483,Guinness Original 4.2% (Ireland/UK),7,4,7,3,11
+484,Guinness Original 4.2% (Ireland/UK),6,4,7,3,14
+485,Guinness Original 4.2% (Ireland/UK),6,5,8,2,14
+486,Guinness Original 4.2% (Ireland/UK),5,4,7,4,16
+487,Guinness Original 4.2% (Ireland/UK),6,4,8,4,15
+488,Guinness Original 4.2% (Ireland/UK),6,4,7,4,15
+489,Guinness Original 4.2% (Ireland/UK),8,4,7,4,15
+490,Guinness Original 4.2% (Ireland/UK),8,4,9,3,18
+491,Guinness Original 4.2% (Ireland/UK),6,3,6,2,14
+492,Guinness Original 4.2% (Ireland/UK),4,4,6,3,12
+493,Guinness Original 4.2% (Ireland/UK),6,4,5,3,8
+494,Guinness Original 4.2% (Ireland/UK),4,3,6,3,13
+495,Guinness Original 4.2% (Ireland/UK),6,4,7,4,15
+496,Guinness Original 4.2% (Ireland/UK),4,5,6,3,13
+497,Guinness Original 4.2% (Ireland/UK),5,4,5,3,11
+498,Guinness Original 4.2% (Ireland/UK),5,4,6,3,13
+499,Guinness Original 4.2% (Ireland/UK),3,2,7,4,13
+500,Guinness Original 4.2% (Ireland/UK),6,3,6,3,13
+501,Guinness Original 4.2% (Ireland/UK),6,3,7,4,15
+502,Guinness Original 4.2% (Ireland/UK),6,5,6,3,12
+503,Guinness Original 4.2% (Ireland/UK),10,5,10,5,20
+504,Guinness Original 4.2% (Ireland/UK),5,3,7,3,13
+505,Guinness Original 4.2% (Ireland/UK),7,4,7,3,15
+506,Guinness Original 4.2% (Ireland/UK),7,4,7,3,14
+507,Guinness Original 4.2% (Ireland/UK),6,3,7,2,12
+508,Guinness Original 4.2% (Ireland/UK),6,3,6,3,10
+509,Guinness Original 4.2% (Ireland/UK),7,5,7,3,15
+510,Guinness Original 4.2% (Ireland/UK),6,4,7,3,14
+511,Guinness Original 4.2% (Ireland/UK),7,4,9,4,18
+512,Guinness Original 4.2% (Ireland/UK),6,4,7,4,13
+513,Guinness Original 4.2% (Ireland/UK),6,4,7,3,13
+514,Guinness Original 4.2% (Ireland/UK),7,4,7,4,14
+515,Guinness Original 4.2% (Ireland/UK),4,3,4,3,15
+516,Guinness Original 4.2% (Ireland/UK),6,4,6,3,11
+517,Guinness Original 4.2% (Ireland/UK),8,5,4,3,10
+518,Guinness Original 4.2% (Ireland/UK),6,5,6,4,14
+519,Guinness Original 4.2% (Ireland/UK),6,4,7,3,15
+520,Guinness Original 4.2% (Ireland/UK),7,4,7,2,15
+521,Guinness Original 4.2% (Ireland/UK),7,3,6,4,14
+522,Guinness Original 4.2% (Ireland/UK),7,2,6,3,13
+523,Guinness Original 4.2% (Ireland/UK),6,4,7,4,14
+524,Guinness Original 4.2% (Ireland/UK),8,4,7,3,15
+525,Guinness Original 4.2% (Ireland/UK),8,3,8,3,15
+526,Guinness Original 4.2% (Ireland/UK),7,4,8,3,15
+527,Guinness Original 4.2% (Ireland/UK),7,4,7,3,15
+528,Guinness Original 4.2% (Ireland/UK),6,5,7,4,14
+529,Guinness Original 4.2% (Ireland/UK),3,5,4,3,10
+530,Guinness Original 4.2% (Ireland/UK),6,4,6,3,14
+531,Guinness Original 4.2% (Ireland/UK),7,3,6,4,15
+532,Guinness Original 4.2% (Ireland/UK),7,3,6,3,13
+533,Guinness Original 4.2% (Ireland/UK),2,4,1,2,3
+534,Guinness Original 4.2% (Ireland/UK),5,4,7,3,15
+535,Guinness Original 4.2% (Ireland/UK),2,1,6,5,15
+536,Guinness Original 4.2% (Ireland/UK),8,5,8,4,15
+537,Guinness Original 4.2% (Ireland/UK),4,5,6,4,13
+538,Guinness Original 4.2% (Ireland/UK),5,3,5,3,10
+539,Guinness Original 4.2% (Ireland/UK),7,4,7,3,13
+540,Guinness Original 4.2% (Ireland/UK),6,3,7,3,13
+541,Guinness Original 4.2% (Ireland/UK),8,5,8,4,14
+542,Guinness Original 4.2% (Ireland/UK),5,3,4,3,10
+543,Guinness Original 4.2% (Ireland/UK),3,3,2,2,3
+544,Guinness Original 4.2% (Ireland/UK),4,4,4,4,16
+545,Guinness Original 4.2% (Ireland/UK),8,5,8,5,16
+546,Guinness Original 4.2% (Ireland/UK),6,3,6,3,13
+547,Guinness Original 4.2% (Ireland/UK),4,3,5,3,10
+548,Guinness Original 4.2% (Ireland/UK),6,3,5,2,11
+549,Guinness Original 4.2% (Ireland/UK),6,5,6,4,13
+550,Guinness Original 4.2% (Ireland/UK),6,3,6,3,11
+551,Guinness Original 4.2% (Ireland/UK),7,4,7,4,13
+552,Guinness Original 4.2% (Ireland/UK),7,4,8,3,16
+553,Guinness Original 4.2% (Ireland/UK),10,5,8,4,18
+554,Guinness Original 4.2% (Ireland/UK),7,4,7,3,15
+555,Guinness Original 4.2% (Ireland/UK),7,5,7,4,15
+556,Guinness Original 4.2% (Ireland/UK),6,3,8,4,13
+557,Guinness Original 4.2% (Ireland/UK),7,4,7,3,13
+558,Guinness Original 4.2% (Ireland/UK),5,4,5,3,15
+559,Guinness Original 4.2% (Ireland/UK),6,4,7,3,11
+560,Guinness Original 4.2% (Ireland/UK),6,4,8,4,14
+561,Guinness Original 4.2% (Ireland/UK),7,5,6,2,10
+562,Guinness Original 4.2% (Ireland/UK),7,4,6,3,15
+563,Guinness Original 4.2% (Ireland/UK),5,5,6,3,11
+564,Guinness Original 4.2% (Ireland/UK),7,4,7,5,13
+565,Guinness Original 4.2% (Ireland/UK),8,3,8,2,16
+566,Guinness Original 4.2% (Ireland/UK),8,4,7,4,17
+567,Guinness Original 4.2% (Ireland/UK),5,3,6,3,10
+568,Guinness Original 4.2% (Ireland/UK),6,4,8,4,16
+569,Guinness Original 4.2% (Ireland/UK),7,4,8,4,16
+570,Guinness Original 4.2% (Ireland/UK),4,4,6,3,13
+571,Guinness Original 4.2% (Ireland/UK),5,4,5,3,11
+572,Guinness Original 4.2% (Ireland/UK),6,3,5,3,13
+573,Guinness Original 4.2% (Ireland/UK),8,4,6,3,13
+574,Guinness Original 4.2% (Ireland/UK),4,3,2,1,4
+575,Guinness Original 4.2% (Ireland/UK),7,4,7,3,15
+576,Guinness Original 4.2% (Ireland/UK),7,4,4,3,12
+577,Guinness Original 4.2% (Ireland/UK),6,4,5,2,10
+578,Guinness Original 4.2% (Ireland/UK),5,4,6,3,11
+579,Guinness Original 4.2% (Ireland/UK),6,3,6,3,11
+580,Guinness Original 4.2% (Ireland/UK),6,4,6,3,12
+581,Guinness Original 4.2% (Ireland/UK),6,5,7,3,14
+582,Guinness Original 4.2% (Ireland/UK),3,3,5,3,6
+583,Guinness Original 4.2% (Ireland/UK),3,4,3,1,6
+584,Guinness Original 4.2% (Ireland/UK),3,4,4,2,7
+585,Guinness Original 4.2% (Ireland/UK),7,4,8,4,15
+586,Guinness Original 4.2% (Ireland/UK),10,5,9,5,19
+587,Guinness Original 4.2% (Ireland/UK),4,3,5,2,10
+588,Guinness Original 4.2% (Ireland/UK),8,4,7,4,16
+589,Guinness Original 4.2% (Ireland/UK),8,4,8,4,16
+590,Guinness Original 4.2% (Ireland/UK),6,4,6,2,11
+591,Guinness Original 4.2% (Ireland/UK),10,5,10,5,20
+592,Guinness Original 4.2% (Ireland/UK),5,4,7,3,11
+593,Guinness Original 4.2% (Ireland/UK),5,2,4,2,5
+594,Guinness Original 4.2% (Ireland/UK),6,3,6,4,13
+595,Guinness Original 4.2% (Ireland/UK),2,2,1,2,4
+596,Guinness Original 4.2% (Ireland/UK),5,2,4,2,10
+597,Guinness Original 4.2% (Ireland/UK),6,1,2,2,6
+598,Guinness Original 4.2% (Ireland/UK),6,5,6,3,12
+599,Guinness Original 4.2% (Ireland/UK),4,3,1,1,4
+600,Guinness Original 4.2% (Ireland/UK),4,5,2,2,1
+601,Guinness Original 4.2% (Ireland/UK),4,3,3,2,9
+602,Cass Fresh,4,3,3,1,8
+603,Cass Fresh,2,5,2,4,3
+604,Cass Fresh,6,3,7,3,13
+605,Cass Fresh,5,4,4,3,7
+606,Cass Fresh,4,3,4,3,8
+607,Cass Fresh,4,1,3,1,6
+608,Cass Fresh,2,1,2,1,2
+609,Cass Fresh,3,3,1,2,5
+610,Cass Fresh,2,1,3,1,4
+611,Cass Fresh,6,5,6,5,11
+612,Cass Fresh,3,2,3,1,7
+613,Cass Fresh,3,3,3,2,5
+614,Cass Fresh,2,2,4,1,8
+615,Cass Fresh,4,3,4,2,9
+616,Cass Fresh,5,2,5,2,10
+617,Cass Fresh,6,2,6,2,14
+618,Cass Fresh,4,2,3,1,8
+619,Cass Fresh,3,3,2,1,5
+620,Cass Fresh,3,3,4,2,8
+621,Cass Fresh,3,2,3,2,5
+622,Cass Fresh,3,2,3,2,5
+623,Cass Fresh,3,2,3,1,6
+624,Cass Fresh,3,1,3,1,6
+625,Cass Fresh,5,3,4,3,6
+626,Cass Fresh,4,3,5,3,10
+627,Cass Fresh,3,5,4,3,7
+628,Cass Fresh,3,2,3,2,8
+629,Cass Fresh,3,2,2,2,5
+630,Cass Fresh,1,1,1,1,1
+631,Cass Fresh,3,3,3,3,6
+632,Cass Fresh,10,5,10,5,20
+633,Cass Fresh,4,3,4,2,7
+634,Cass Fresh,3,2,4,2,7
+635,Cass Fresh,4,3,5,3,10
+636,Cass Fresh,3,2,3,2,6
+637,Cass Fresh,6,3,6,3,12
+638,Cass Fresh,4,2,4,2,7
+639,Cass Fresh,2,2,3,1,7
+640,Cass Fresh,4,4,4,4,7
+641,Cass Fresh,3,2,3,2,6
+642,Cass Fresh,2,2,4,2,6
+643,Cass Fresh,4,1,3,1,4
+644,Cass Fresh,5,2,4,2,11
+645,Cass Fresh,3,4,4,2,9
+646,Cass Fresh,3,1,1,1,2
+647,Cass Fresh,4,3,4,3,6
+648,Cass Fresh,4,2,4,2,8
+649,Cass Fresh,2,3,2,1,5
+650,Cass Fresh,4,3,4,2,8
+651,Cass Fresh,4,3,4,3,6
+652,Cass Fresh,4,3,4,2,8
+653,Cass Fresh,4,2,4,3,9
+654,Cass Fresh,4,4,3,3,6
+655,Cass Fresh,5,3,5,3,10
+656,Cass Fresh,4,2,3,1,5
+657,Cass Fresh,5,3,5,3,5
+658,Cass Fresh,4,3,4,3,8
+659,Cass Fresh,3,1,3,2,5
+660,Cass Fresh,3,3,3,3,3
+661,Cass Fresh,1,1,1,1,1
+662,Cass Fresh,1,3,2,4,12
+663,Cass Fresh,2,1,3,2,4
+664,Cass Fresh,1,2,1,1,2
+665,Cass Fresh,1,1,1,1,1
+666,Cass Fresh,5,3,5,3,13
+667,Cass Fresh,4,3,4,2,8
+668,Cass Fresh,5,2,4,2,9
+669,Cass Fresh,3,2,3,2,8
+670,Cass Fresh,3,2,4,2,8
+671,Cass Fresh,6,4,6,3,13
+672,Cass Fresh,3,2,3,2,4
+673,Cass Fresh,5,2,4,2,8
+674,Cass Fresh,5,3,4,3,8
+675,Cass Fresh,4,2,5,2,8
+676,Cass Fresh,4,2,3,2,7
+677,Cass Fresh,4,2,4,2,10
+678,Cass Fresh,5,3,3,1,8
+679,Cass Fresh,3,2,3,2,6
+680,Cass Fresh,2,2,2,2,4
+681,Cass Fresh,4,2,4,2,8
+682,Cass Fresh,4,2,3,1,5
+683,Cass Fresh,4,3,5,3,8
+684,Cass Fresh,4,2,4,1,8
+685,Cass Fresh,5,4,5,4,4
+686,Cass Fresh,4,3,4,3,10
+687,Cass Fresh,5,2,6,2,11
+688,Cass Fresh,5,3,5,2,11
+689,Cass Fresh,3,2,6,3,15
+690,Cass Fresh,1,1,2,2,3
+691,Cass Fresh,4,3,4,2,5
+692,Cass Fresh,2,1,2,1,6
+693,Cass Fresh,2,1,3,1,5
+694,Cass Fresh,1,1,3,3,11
+695,Cass Fresh,5,2,3,2,5
+696,Cass Fresh,3,2,3,2,7
+697,Cass Fresh,4,3,4,3,8
+698,Cass Fresh,1,1,1,1,1
+699,Cass Fresh,2,2,2,2,6
+700,Cass Fresh,4,3,4,2,7
+701,Cass Fresh,5,3,2,2,7
+702,Cass Fresh,5,2,1,1,5
+703,Cass Fresh,5,4,5,4,11
+704,Cass Fresh,2,1,2,1,2
+705,Cass Fresh,2,1,2,2,4
+706,Cass Fresh,1,2,4,1,5
+707,Cass Fresh,2,2,3,2,6
+708,Cass Fresh,2,3,1,3,5
+709,Cass Fresh,3,3,2,1,6
+710,Cass Fresh,5,2,5,3,10
+711,Cass Fresh,4,3,4,2,8
+712,Cass Fresh,5,2,4,1,8
+713,Cass Fresh,4,2,3,2,7
+714,Cass Fresh,5,3,5,3,10
+715,Cass Fresh,4,2,4,3,9
+716,Cass Fresh,5,3,4,3,6
+717,Cass Fresh,3,2,2,2,5
+718,Cass Fresh,6,3,6,2,3
+719,Cass Fresh,4,3,4,3,7
+720,Cass Fresh,3,2,3,2,6
+721,Cass Fresh,3,1,1,1,2
+722,Cass Fresh,2,2,2,1,2
+723,Cass Fresh,3,2,3,2,8
+724,Cass Fresh,3,4,3,3,12
+725,Cass Fresh,3,2,2,1,4
+726,Cass Fresh,6,3,6,3,12
+727,Cass Fresh,5,2,6,3,12
+728,Cass Fresh,6,2,6,3,13
+729,Cass Fresh,1,2,3,2,5
+730,Cass Fresh,3,3,2,2,5
+731,Cass Fresh,2,2,2,2,6
+732,Cass Fresh,2,1,2,2,4
+733,Cass Fresh,3,2,3,2,8
+734,Cass Fresh,3,4,3,3,4
+735,Cass Fresh,5,4,4,4,9
+736,Cass Fresh,3,3,5,3,9
+737,Cass Fresh,2,2,1,1,3
+738,Cass Fresh,3,3,3,2,6
+739,Cass Fresh,4,3,5,2,5
+740,Cass Fresh,5,2,5,3,10
+741,Cass Fresh,3,3,5,3,6
+742,Cass Fresh,4,3,4,1,8
+743,Cass Fresh,5,3,4,2,9
+744,Cass Fresh,3,1,3,1,5
+745,Cass Fresh,4,2,4,2,6
+746,Cass Fresh,3,3,3,2,7
+747,Cass Fresh,1,1,1,1,1
+748,Cass Fresh,4,3,3,2,7
+749,Cass Fresh,3,4,4,4,8
+750,Cass Fresh,2,2,3,2,8
+751,Cass Fresh,3,3,5,2,10
+752,Cass Fresh,3,2,3,3,6
+753,Cass Fresh,5,3,5,2,10
+754,Cass Fresh,3,2,4,1,6
+755,Cass Fresh,3,2,4,2,6
+756,Cass Fresh,3,3,4,3,8
+757,Cass Fresh,1,2,1,1,1
+758,Cass Fresh,3,3,3,2,5
+759,Cass Fresh,4,2,4,3,8
+760,Cass Fresh,5,3,3,2,6
+761,Cass Fresh,2,3,2,1,5
+762,Cass Fresh,3,2,4,1,7
+763,Cass Fresh,4,2,4,2,5
+764,Cass Fresh,6,4,6,3,12
+765,Cass Fresh,1,2,1,1,2
+766,Cass Fresh,5,2,5,3,12
+767,Cass Fresh,3,3,3,2,7
+768,Cass Fresh,4,3,5,2,6
+769,Cass Fresh,3,3,4,3,6
+770,Cass Fresh,2,2,4,1,3
+771,Cass Fresh,4,2,4,2,6
+772,Cass Fresh,2,3,4,1,4
+773,Cass Fresh,7,3,6,3,11
+774,Cass Fresh,4,3,3,3,7
+775,Cass Fresh,3,2,3,2,5
+776,Cass Fresh,4,2,3,2,7
+777,Cass Fresh,4,2,5,2,9
+778,Cass Fresh,4,3,5,3,9
+779,Cass Fresh,3,2,3,2,6
+780,Cass Fresh,4,3,4,1,3
+781,Cass Fresh,2,3,2,2,4
+782,Cass Fresh,2,2,3,2,4
+783,Cass Fresh,8,3,6,3,12
+784,Cass Fresh,3,5,2,1,3
+785,Cass Fresh,4,3,4,2,9
+786,Cass Fresh,3,2,2,2,5
+787,Cass Fresh,3,3,4,3,8
+788,Cass Fresh,3,2,4,2,7
+789,Cass Fresh,3,2,2,2,3
+790,Cass Fresh,4,2,4,2,7
+791,Cass Fresh,4,2,4,1,5
+792,Cass Fresh,3,1,3,3,5
+793,Cass Fresh,3,3,1,3,3
+794,Cass Fresh,6,3,6,2,9
+795,Cass Fresh,4,3,4,2,8
+796,Cass Fresh,4,2,4,2,7
+797,Cass Fresh,3,2,3,2,7
+798,Cass Fresh,1,3,4,2,5
+799,Cass Fresh,3,3,3,3,8
+800,Cass Fresh,3,3,3,3,9
+801,Cass Fresh,7,4,4,3,11
+802,Cass Fresh,4,3,4,2,7
+803,Cass Fresh,3,2,3,2,8
+804,Cass Fresh,4,2,5,2,10
+805,Cass Fresh,3,2,2,1,4
+806,Cass Fresh,3,2,2,2,3
+807,Cass Fresh,2,2,2,2,8
+808,Cass Fresh,3,3,3,3,7
+809,Cass Fresh,2,1,2,1,2
+810,Cass Fresh,1,2,1,1,1
+811,Cass Fresh,4,1,2,2,5
+812,Cass Fresh,2,2,3,1,7
+813,Cass Fresh,3,2,3,2,4
+814,Cass Fresh,1,1,3,1,4
+815,Cass Fresh,4,2,5,3,11
+816,Cass Fresh,4,2,4,2,7
+817,Cass Fresh,4,1,5,2,9
+818,Cass Fresh,3,2,3,2,5
+819,Cass Fresh,4,2,3,1,7
+820,Cass Fresh,3,3,1,1,5
+821,Cass Fresh,1,1,1,1,1
+822,Cass Fresh,3,2,4,2,9
+823,Cass Fresh,1,2,2,2,3
+824,Cass Fresh,3,2,3,2,6
+825,Cass Fresh,2,2,2,2,8
+826,Cass Fresh,1,3,1,1,3
+827,Cass Fresh,4,2,3,2,4
+828,Cass Fresh,2,1,3,1,4
+829,Cass Fresh,2,3,2,2,4
+830,Cass Fresh,3,1,2,1,5
+831,Cass Fresh,4,2,4,2,5
+832,Cass Fresh,5,3,4,2,6
+833,Cass Fresh,3,1,4,1,7
+834,Cass Fresh,3,2,3,2,5
+835,Cass Fresh,3,1,4,1,7
+836,Cass Fresh,4,3,5,3,7
+837,Cass Fresh,1,1,2,1,3
+838,Cass Fresh,4,2,5,2,7
+839,Cass Fresh,2,3,2,2,5
+840,Cass Fresh,3,3,3,2,6
+841,Cass Fresh,2,3,5,3,8
+842,Cass Fresh,3,1,2,1,2
+843,Cass Fresh,2,1,2,1,2
+844,Cass Fresh,5,3,5,3,10
+845,Cass Fresh,2,2,2,1,3
+846,Cass Fresh,5,2,4,2,5
+847,Cass Fresh,3,3,2,1,2
+848,Cass Fresh,2,3,1,1,2
+849,Cass Fresh,5,3,5,2,10
+850,Cass Fresh,4,2,4,3,9
+851,Cass Fresh,2,3,2,3,5
+852,Cass Fresh,4,1,4,1,6
+853,Cass Fresh,1,1,2,2,4
+854,Cass Fresh,2,2,4,2,5
+855,Cass Fresh,2,2,2,2,3
+856,Cass Fresh,2,2,4,2,8
+857,Cass Fresh,2,1,2,2,6
+858,Cass Fresh,4,2,4,2,7
+859,Cass Fresh,1,1,1,1,2
+860,Cass Fresh,3,2,4,2,8
+861,Cass Fresh,5,2,2,1,6
+862,Cass Fresh,2,2,3,2,5
+863,Cass Fresh,2,2,1,2,6
+864,Cass Fresh,3,2,4,2,5
+865,Cass Fresh,4,3,4,3,8
+866,Cass Fresh,3,3,4,3,8
+867,Cass Fresh,4,2,4,3,8
+868,Cass Fresh,3,2,3,3,4
+869,Cass Fresh,4,2,3,2,7
+870,Cass Fresh,7,3,6,3,10
+871,Cass Fresh,2,1,2,1,2
+872,Cass Fresh,3,2,3,1,10
+873,Cass Fresh,2,2,4,1,6
+874,Cass Fresh,3,3,5,2,8
+875,Cass Fresh,3,2,1,1,1
+876,Cass Fresh,3,2,2,2,7
+877,Cass Fresh,2,3,3,3,5
+878,Cass Fresh,3,2,2,2,3
+879,Cass Fresh,2,1,2,1,2
+880,Cass Fresh,5,2,4,2,8
+881,Cass Fresh,3,2,5,3,8
+882,Cass Fresh,6,3,6,3,8
+883,Cass Fresh,3,2,4,2,7
+884,Cass Fresh,1,2,4,3,8
+885,Cass Fresh,3,2,3,2,10
+886,Cass Fresh,1,2,1,1,2
+887,Cass Fresh,3,3,4,2,7
+888,Cass Fresh,1,1,2,1,4
+889,Cass Fresh,2,1,2,1,2
+890,Cass Fresh,3,1,2,1,3
+891,Cass Fresh,3,2,3,2,5
+892,Cass Fresh,4,2,3,1,4
+893,Cass Fresh,5,2,5,1,9
+894,Cass Fresh,2,2,2,1,3
+895,Cass Fresh,2,1,1,2,2
+896,Cass Fresh,2,2,2,2,5
+897,Cass Fresh,2,3,3,2,5
+898,Cass Fresh,2,1,2,2,4
+899,Cass Fresh,4,2,4,2,8
